@@ -33,7 +33,5 @@ and product-level insights to support data-driven decision making.
 - Revenue is driven primarily by order volume rather than high AOV
 - Customer base is broad, suggesting stable demand
 
-## Sales by Category
-![Sales by State](C:/Users/Luche_Cameron/Downloads/newplot (1).png)
-
-C:/Users/Luche_Cameron/Downloads/newplot (1).png
+### Example of Data Visualization
+<img width="1076" height="525" alt="newplot (1)" src="https://github.com/user-attachments/assets/532eb328-f636-4b2c-96f2-6d0e1bdb8a9b" />
