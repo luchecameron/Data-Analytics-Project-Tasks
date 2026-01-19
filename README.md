@@ -1,2 +1,19 @@
-# Data-Analytics-Project-Tasks
-This project analyzes a retail superstore’s sales data to uncover key business insights related to revenue performance, customer behavior, regional trends, and product profitability. Using Python, the analysis includes data cleaning, exploratory analysis, time-series trends, and data visualization to support data-driven decision making.
+# Superstore Sales Analysis
+
+
+## Business Objective
+The goal of this project is to analyze sales performance for a retail superstore
+and identify revenue drivers, regional performance, customer segment value,
+and product-level insights to support data-driven decision making.
+
+## Dataset
+- Source: Superstore sales dataset
+- Time Period: 3 years
+- Records: ~10,000 orders
+- Key Fields: Sales, Order Date, Category, Region, Segment, Ship Mode
+
+## Tools & Technologies
+- Python (Pandas, Matplotlib, Plotly)
+- Jupyter Notebook
+- Git & GitHub
+
