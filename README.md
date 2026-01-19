@@ -14,6 +14,22 @@ and product-level insights to support data-driven decision making.
 
 ## Tools & Technologies
 - Python (Pandas, Matplotlib, Plotly)
-- Jupyter Notebook
-- Git & GitHub
+- Spyder IDE
+- GitHub
+
+## Data Cleaning & Preparation
+- Converted Order Date and Ship Date to datetime format
+- Ensured Postal Code is treated as a categorical variable
+- Checked and handled missing values selectively to avoid data loss
+- Verified no duplicate records affecting sales calculations
+
+## Sales Performance Overview
+### Key Metrics
+- Total Revenue: R2.25M
+- Unique Customers: 793
+- Total Orders: 4,916
+
+### Insights
+- Revenue is driven primarily by order volume rather than high AOV
+- Customer base is broad, suggesting stable demand
 
